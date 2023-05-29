@@ -24,22 +24,34 @@
   - Linux - basics
   - Bash
   - Markdown
+  - XAMPP
   - Slack - for communication within the team
   - knowledge of ISTQB
   - creating test cases
   - reporting bugs
+  
+# Soft skills
+  - Responsibility
+  - Ability to collaborate
+  - Ability to organize work and prioritize tasks
+  - Communicativeness
+  - Analytical thinking skills
+  - Striving to solve problems
 
-# Groups on Facebook
-
+# Groups for knowledge gathering
   - Testowanie oprogramowania
   - Testuj, dziewczyno!
  
-# Recommended blogs
-
-  - te
- 
+# Blogs read
+  - wyszkolewas.com.pl
+  - remigiuszbednarczyk.pl
+  - tester.milenabednarczyk.pl
+  - qualityisland.pl
   
-#   My projects
+# LinkedIn
+https://linkedin.com/in/martyna-bródka
+
+# My projects
   ## During 'Become a manual tester' course with DareIT
   
   ### Testing web application 'Panel skautingowy':
@@ -49,11 +61,7 @@
   [Test cases based on my experience](https://docs.google.com/spreadsheets/d/1qhqq7gvB1-uo2Hk41foYMNccAh6UfEV9Ui-XiaKFGCY/edit?usp=share_link)
    
   [Bug reports](https://docs.google.com/spreadsheets/d/1haXh73EnlIF2jbQ_I6-51CpYrvwtagGsznB-xxmbrRk/edit?usp=share_link)
-   
-  [Test cases based on User Story](https://docs.google.com/spreadsheets/d/17wW2EmyXQof2-13uWYF5mfNGfczgWw1K5h5nRc2g9DA/edit?usp=share_link)
-  
-  [Test cases based on my experience](https://docs.google.com/spreadsheets/d/1qhqq7gvB1-uo2Hk41foYMNccAh6UfEV9Ui-XiaKFGCY/edit?usp=share_link)
-    
+      
   [Test report](https://docs.google.com/spreadsheets/d/1jttRvw_sA15w4ZhtyLvgy9YZXiXuAco_H5eXO2VMW-I/edit?usp=share_link)
     
   ### Testing mobile application 'OLX': 
@@ -62,9 +70,5 @@
   
   ## During my postgraduate studies
   
-  [
+  [project Selenium](https://github.com/martynabrodka/Projekt_Selenium.git)
   
- 
-#   Task 5: SQL - part 1
-  
-
