@@ -47,6 +47,9 @@
   - remigiuszbednarczyk.pl
   - tester.milenabednarczyk.pl
   - qualityisland.pl
+
+# Books
+  - PYTHON dla testera, Piotr Wróblewski
   
 # LinkedIn
 https://linkedin.com/in/martyna-bródka
