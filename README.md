@@ -28,7 +28,7 @@ https://linkedin.com/in/martyna-bródka
   [project Selenium](https://github.com/martynabrodka/Projekt_Selenium.git)
   
 # Studies
-  - Software tester for mobile and server applications at WSB University Toruń
+  - Software tester for mobile and server applications at WSB University Toruń 👉 (https://drive.google.com/file/d/1e9S7-laob5k6cgleQRoNBr2wxiHCjslJ/view?usp=drive_link)
   
 # Courses
   - Become a manual tester with Dare IT
