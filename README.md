@@ -43,23 +43,41 @@ https://linkedin.com/in/martyna-bródka
   
 # Tools and tech skills
   ✔️ Python basics of Python language
+  
   ✔️ MySQL - relational database management system
+  
   ✔️ Selenium WebDriver - for automated testing of web applications
+  
   ✔️ Git, GitHub
+  
   ✔️ JIRA - bug tracker
+  
   ✔️ Pytest
+  
   ✔️ Testlink
+  
   ✔️ Postman - testing tool for REST API
+  
   ✔️ Chrome DevTools - for testing and to improve bug reports
+  
   ✔️ Linux - basics
+  
   ✔️ Bash
+  
   ✔️ CSS
+  
   ✔️ HTML
+  
   ✔️ Markdown
+  
   ✔️ XAMPP
+  
   ✔️ Slack - for communication within the team
+  
   ✔️ knowledge of ISTQB
+  
   ✔️ creating test cases
+  
   ✔️ reporting bugs
   
 # Soft skills
