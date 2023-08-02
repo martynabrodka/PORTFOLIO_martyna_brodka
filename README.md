@@ -7,9 +7,12 @@
 https://linkedin.com/in/martyna-bródka
 
 # My projects
+  ## 👉 During 'Automated tests with Python' course with DareIT:
+  [Link to my completed tasks during automated tests's course](https://github.com/martynabrodka/challenge2_automat_portfolio_martyna.git)
+
   ## 👉 During 'Become a Manual Tester' course with DareIT:
   
-  ### - Testing web application 'Panel skautingowy':
+  ### - Testing web application 'Scouts Panel':
   
   [Test cases based on User Story](https://docs.google.com/spreadsheets/d/17wW2EmyXQof2-13uWYF5mfNGfczgWw1K5h5nRc2g9DA/edit?usp=share_link)
   
@@ -22,11 +25,7 @@ https://linkedin.com/in/martyna-bródka
   ### - Testing mobile application 'OLX': 
   
   [mobile application OLX - test report](https://docs.google.com/spreadsheets/d/11Pi6VLGrnI0tyeVno8IfymIVcD4892X5/edit#gid=1470010360)
-
-  ## 👉 During 'Automated Tests with Python' course with DareIT (in progress):
-  
-  [link to exercises](https://github.com/martynabrodka/challenge2_automat_portfolio_martyna.git)
-  
+ 
   ## 👉 During my postgraduate studies:
   
   [project Selenium](https://github.com/martynabrodka/Projekt_Selenium.git)
@@ -35,14 +34,16 @@ https://linkedin.com/in/martyna-bródka
   🏆 Software tester for mobile and server applications at WSB University Toruń 👉 [Link to certificate](https://drive.google.com/file/d/1e9S7-laob5k6cgleQRoNBr2wxiHCjslJ/view?usp=drive_link)
   
 # Courses
-  🏆 [Become a Manual Tester with Dare IT](https://drive.google.com/file/d/1oSd7AEq_ZMOrGupyfU07lojI8zEwiPZT/view?usp=drive_link)
+  🏆 Automated tests with Python || Dare IT
+
+  🏆 [Become a Manual Tester || Dare IT](https://drive.google.com/file/d/1oSd7AEq_ZMOrGupyfU07lojI8zEwiPZT/view?usp=drive_link)
   
   🏆 [Basic SQL course | MySQL](https://www.udemy.com/certificate/UC-dc488f60-aefc-4b20-b701-d3a6e8ed1d8a/)
   
   🏆 [Practical software testing course](https://ude.my/UC-2c68ad30-c734-4631-88b4-4af133344137)
   
 # Tools and tech skills
-  ✔️ Python basics of Python language
+  ✔️ Python - basics of Python language
   
   ✔️ MySQL - relational database management system
   
