@@ -4,7 +4,7 @@
   Hi, my name is Martyna. In June 2022, I completed postgraduate studies as a Software tester for mobile and server applications at the WSB University in Toruń, which allowed me to learn about the duties and tasks of both a manual and an automation tester. I would like to connect my further career path with testing/quality assurance. Currently, I am educating myself in issues related to software testing. I completed courses with Dare IT: 'Become a Manual Tester' and 'Automated Tests with Python'. I have recently started testing for uTest as a freelance tester. I have experience in working with people but also in individual tasks.
   
 # LinkedIn
-https://linkedin.com/in/martyna-bródka
+[linkedin_martyna_bródka](https://www.linkedin.com/in/martyna-br%C3%B3dka-101810259/)
 
 # My projects
   ## 👉 During 'Automated tests with Python' course with DareIT:
