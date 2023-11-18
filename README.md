@@ -1,7 +1,7 @@
 # PORTFOLIO_martyna_brodka
 
 #  👇 ℹ️ About me 👇
-  Hi, my name is Martyna. In June 2022, I completed postgraduate studies as a Software tester for mobile and server applications at the WSB University in Toruń, which allowed me to learn about the duties and tasks of both a manual and an automation tester. I would like to connect my further career path with testing/quality assurance. Currently, I am educating myself in issues related to software testing. I recently passed a Become a Manual Tester course with Dare IT and now I am participating Challenge Dare IT - Automated Tests with Python what seemed to be next step in self-education as a tester, but under the supervision of qualified and motivating instructors. I have experience in working with people but also in individual tasks.
+  Hi, my name is Martyna. In June 2022, I completed postgraduate studies as a Software tester for mobile and server applications at the WSB University in Toruń, which allowed me to learn about the duties and tasks of both a manual and an automation tester. I would like to connect my further career path with testing/quality assurance. Currently, I am educating myself in issues related to software testing. I completed courses with Dare IT: 'Become a Manual Tester' and 'Automated Tests with Python'. I have recently started testing for uTest as a freelance tester. I have experience in working with people but also in individual tasks.
   
 # LinkedIn
 https://linkedin.com/in/martyna-bródka
@@ -34,7 +34,7 @@ https://linkedin.com/in/martyna-bródka
   🏆 Software tester for mobile and server applications at WSB University Toruń 👉 [Link to certificate](https://drive.google.com/file/d/1e9S7-laob5k6cgleQRoNBr2wxiHCjslJ/view?usp=drive_link)
   
 # Courses
-  🏆 Automated tests with Python || Dare IT
+  🏆 [Automated tests with Python || Dare IT](https://drive.google.com/file/d/1-1RabzKm4C3Ob6nF7_wdYu-xSFHFM9v7/view?usp=drive_link)
 
   🏆 [Become a Manual Tester || Dare IT](https://drive.google.com/file/d/1oSd7AEq_ZMOrGupyfU07lojI8zEwiPZT/view?usp=drive_link)
   
