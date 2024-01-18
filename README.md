@@ -1,13 +1,13 @@
 # PORTFOLIO_martyna_brodka
 
 #  👇 ℹ️ About me 👇
-  Hi, my name is Martyna. In June 2022, I completed postgraduate studies as a Software tester for mobile and server applications at the WSB University in Toruń, which allowed me to learn about the duties and tasks of both a manual and an automation tester. I would like to connect my further career path with testing/quality assurance. Currently, I am educating myself in issues related to software testing. I completed courses with Dare IT: 'Become a Manual Tester', 'Automated Tests with Python' and with testerzy.pl: 'JavaScript for software testers'. I have recently started testing for uTest as a freelance tester. I have experience in working with people but also in individual tasks.
+  Hi, my name is Martyna. In June 2022, I completed postgraduate studies as a Software tester for mobile and server applications at the WSB University in Toruń, which allowed me to learn about the duties and tasks of both a manual and an automation tester. I would like to connect my further career path with testing/quality assurance. Currently, I am educating myself in issues related to software testing. I completed courses with Dare IT: 'Become a Manual Tester', 'Automated Tests with Python' and with testerzy.pl: 'JavaScript for software testers', 'ISTQB Foundation Level 4.0'. I have recently started testing for uTest as a freelance tester. I have experience in working with people but also in individual tasks.
   
 # LinkedIn
 [linkedin_martyna_bródka](https://www.linkedin.com/in/martyna-br%C3%B3dka-101810259/)
 
 # My projects
-  ## 👉 During 'Automated tests with Python' course with DareIT:
+  ## 👉 During 'Automated Tests with Python' course with DareIT:
   [Link to my completed tasks during automated tests's course](https://github.com/martynabrodka/challenge2_automat_portfolio_martyna.git)
 
   ## 👉 During 'Become a Manual Tester' course with DareIT:
@@ -34,6 +34,8 @@
   🏆 Software tester for mobile and server applications at WSB University Toruń 👉 [Link to certificate](https://drive.google.com/file/d/1e9S7-laob5k6cgleQRoNBr2wxiHCjslJ/view?usp=drive_link)
   
 # Courses
+  🏆 [ISTQB Foundation Level 4.0 || testerzy.pl](https://drive.google.com/file/d/12RWqZ2EppGVokSqkl8MmBjYVf6MuI1sF/view?usp=drive_link)
+
   🏆 [JavaScript for software testers || testerzy.pl](https://drive.google.com/file/d/1MIYeL1XRcPwB7RKgk7pAQU7R6183VQa5/view?usp=drive_link)
 
   🏆 [Automated tests with Python || Dare IT](https://drive.google.com/file/d/1-1RabzKm4C3Ob6nF7_wdYu-xSFHFM9v7/view?usp=drive_link)
@@ -99,7 +101,6 @@
  
 # Blogs read
   - wyszkolewas.com.pl
-  - remigiuszbednarczyk.pl
   - tester.milenabednarczyk.pl
   - qualityisland.pl
   - boringowl.io/blog
@@ -107,5 +108,6 @@
 
 # Books
   - PYTHON dla testera, Piotr Wróblewski
-  - Certyfikowany tester. Sylabus poziomu podstawowego ISTQB.
+  - Certified Tester Foundation Level (CTFL) Syllabus, Version 2018 v3.1.1
+  - Certified Tester Foundation Level Syllabus, v4.0
   
